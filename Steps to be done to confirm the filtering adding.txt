@@ -1,0 +1,20 @@
+oracle db -super user
+c##xstrm	et48RtmHC7fS
+
+lab has a one query generated, weekly based lab test begining from thursday as the firstday.
+get it from mujahid.
+Add the filters.
+Need to change the schema names. 
+test and update mujahid.
+
+---Reporting module -----
+uat and perf users
+-----------------------------
+reporter
+123
+-------------
+dev user
+-----------
+3136
+123
+
